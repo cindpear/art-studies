@@ -26,3 +26,6 @@ Each hour is a set of studies on different subjects (full body, torso, clothes, 
 **Hour 22 & 23:** [Hour 22 PNG](https://github.com/cindpear/art-studies/blob/main/hour-22.jpg) | [Hour 23 PNG](https://github.com/cindpear/art-studies/blob/main/hour-23.png) | [Hour 22 & 23 PSD](https://github.com/cindpear/art-studies/blob/main/Hour_22_%26_23.psd)\
 **Hour 24:** [Hour 24 PNG](https://github.com/cindpear/art-studies/blob/main/hour-24.png) | [Hour 24 PSD](https://github.com/cindpear/art-studies/blob/main/Hour_24.psd)\
 **Hour 25:** [Hour 25 PNG](https://github.com/cindpear/art-studies/blob/main/hour-25.png) | [Hour 25 PSD](https://github.com/cindpear/art-studies/blob/main/Hour_25.psd)
+
+## Hours 26 - 50
+![Collage of Hours 26 through 50](https://github.com/cindpear/art-studies/blob/main/hour-26-50.jpg)
