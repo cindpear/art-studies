@@ -10,7 +10,7 @@ Each hour is a set of studies on different subjects (full body, torso, clothes, 
 **Hour 2:** [Hour 2 PNG](https://github.com/cindpear/art-studies/blob/main/IMG_2966.png) | [Hour 2 PSD](https://github.com/cindpear/art-studies/blob/main/Hour_2.psd)\
 **Hour 3:** [Hour 3 PNG](https://github.com/cindpear/art-studies/blob/main/IMG_2971.png) | [Hour 3 PSD](https://github.com/cindpear/art-studies/blob/main/Hour_3.psd)\
 **Hour 4:** [Hour 4 PNG](https://github.com/cindpear/art-studies/blob/main/IMG_2984.png) | [Hour 4 PSD](https://github.com/cindpear/art-studies/blob/main/Hour_4.psd)\
-**Hour 5:** [Hour 5 PNG 1](https://github.com/cindpear/art-studies/blob/main/IMG_2991.png) | [PNG 2](https://github.com/cindpear/art-studies/blob/main/IMG_2992.png) | [Hour 5 PSD 1](https://github.com/cindpear/art-studies/blob/main/Hour_5-1.psd) | [Hour 5 PSD 2](https://github.com/cindpear/art-studies/blob/main/Hour_5-2.psd)\
+**Hour 5:** [Hour 5 PNG 1](https://github.com/cindpear/art-studies/blob/main/IMG_2991.png) | [Hour 5 PNG 2](https://github.com/cindpear/art-studies/blob/main/IMG_2992.png) | [Hour 5 PSD 1](https://github.com/cindpear/art-studies/blob/main/Hour_5-1.psd) | [Hour 5 PSD 2](https://github.com/cindpear/art-studies/blob/main/Hour_5-2.psd)\
 **Hour 6:** [Hour 6 PNG](https://github.com/cindpear/art-studies/blob/main/IMG_3004.png) | [Hour 6 PSD](https://github.com/cindpear/art-studies/blob/main/Hour_6.psd)\
 **Hour 7:** [Hour 7 PNG](https://github.com/cindpear/art-studies/blob/main/IMG_3012.png) | [Hour 7 PSD](https://github.com/cindpear/art-studies/blob/main/Hour_7.psd)\
 **Hour 8:** [Hour 8 PNG](https://github.com/cindpear/art-studies/blob/main/IMG_3022.png) | [Hour 8 PSD](https://github.com/cindpear/art-studies/blob/main/Hour_8.psd)\
@@ -25,4 +25,4 @@ Each hour is a set of studies on different subjects (full body, torso, clothes, 
 **Hour 20 & 21:** [Hour 20 PNG](https://github.com/cindpear/art-studies/blob/main/hour-20.png) | [Hour 21 PNG](https://github.com/cindpear/art-studies/blob/main/hour-21.png) | [Hour 20 & 21 PSD](https://github.com/cindpear/art-studies/blob/main/Hour_20_%26_21.psd)\
 **Hour 22 & 23:** [Hour 22 PNG](https://github.com/cindpear/art-studies/blob/main/hour-22.jpg) | [Hour 23 PNG](https://github.com/cindpear/art-studies/blob/main/hour-23.png) | [Hour 22 & 23 PSD](https://github.com/cindpear/art-studies/blob/main/Hour_22_%26_23.psd)\
 **Hour 24:** [Hour 24 PNG](https://github.com/cindpear/art-studies/blob/main/hour-24.png) | [Hour 24 PSD](https://github.com/cindpear/art-studies/blob/main/Hour_24.psd)\
-**Hour 25:** [Hour 25 PNG](https://github.com/cindpear/art-studies/blob/main/hour-25.png) | [Hour 25 PSD](https://github.com/cindpear/art-studies/blob/main/Hour_25.psd)\
+**Hour 25:** [Hour 25 PNG](https://github.com/cindpear/art-studies/blob/main/hour-25.png) | [Hour 25 PSD](https://github.com/cindpear/art-studies/blob/main/Hour_25.psd)
