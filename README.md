@@ -5,3 +5,5 @@ Each hour is a set of studies on different subjects (full body, torso, clothes, 
 
 ## Hours 1 - 25
 ![Collage of Hours 1 through 25](https://github.com/cindpear/art-studies/blob/main/hour-1-25.jpg)
+
+**Hour 1:** [PNG](https://github.com/cindpear/art-studies/blob/main/IMG_2957.png) | [PSD](https://github.com/cindpear/art-studies/blob/main/Hour_1.psd)
