@@ -53,6 +53,7 @@ Each hour is a set of studies on different subjects (full body, torso, clothes, 
 **Hour 49 & 50:** [Hour 49 PNG](https://github.com/cindpear/art-studies/blob/main/hour-49.png) | [Hour 50 PNG](https://github.com/cindpear/art-studies/blob/main/hour-50.png) | [Hour 49 & 50 PSD](https://github.com/cindpear/art-studies/blob/main/Hour_49_%26_50.psd)\
 
 ## Hours 51 - 70
+![Collage of Hours 51 through 70](https://github.com/cindpear/art-studies/blob/main/hour-51-70.jpg)
 
 **Hour 51 & 52:** [Hour 51 PNG](https://github.com/cindpear/art-studies/blob/main/hour-51.png) | [Hour 52 PNG](https://github.com/cindpear/art-studies/blob/main/hour-52.png) | [Hour 51 & 52 PSD](https://github.com/cindpear/art-studies/blob/main/Hour_51_%26_52.psd)\
 **Hour 53 & 54:** [Hour 53 PNG](https://github.com/cindpear/art-studies/blob/main/hour-53.png) | [Hour 54 PNG](https://github.com/cindpear/art-studies/blob/main/hour-54.png) | [Hour 53 & 54 PSD](https://github.com/cindpear/art-studies/blob/main/Hour_53_%26_54.psd)\
@@ -61,4 +62,6 @@ Each hour is a set of studies on different subjects (full body, torso, clothes, 
 **Hour 59 & 60:** [Hour 59 PNG](https://github.com/cindpear/art-studies/blob/main/hour-59.png) | [Hour 60 PNG](https://github.com/cindpear/art-studies/blob/main/hour-60.png) | [Hour 59 & 60 PSD](https://github.com/cindpear/art-studies/blob/main/Hour_59_%26_60.psd)\
 **Hour 61 & 62:** [Hour 61 PNG](https://github.com/cindpear/art-studies/blob/main/hour-61.png) | [Hour 62 PNG](https://github.com/cindpear/art-studies/blob/main/hour-62.png) | [Hour 61 & 62 PSD](https://github.com/cindpear/art-studies/blob/main/Hour_61_%26_62.psd)\
 **Hour 63 & 64:** [Hour 63 PNG](https://github.com/cindpear/art-studies/blob/main/hour-63.png) | [Hour 64 PNG](https://github.com/cindpear/art-studies/blob/main/hour-64.png) | [Hour 63 & 64 PSD](https://github.com/cindpear/art-studies/blob/main/Hour_63_%26_64.psd)\
-**Hour 65 & 66:** [Hour 65 PNG](https://github.com/cindpear/art-studies/blob/main/hour-65.png) | [Hour 66 PNG](https://github.com/cindpear/art-studies/blob/main/hour-66.png) | [Hour 65 & 66 PSD](https://github.com/cindpear/art-studies/blob/main/Hour_65_%26_66.psd)
+**Hour 65 & 66:** [Hour 65 PNG](https://github.com/cindpear/art-studies/blob/main/hour-65.png) | [Hour 66 PNG](https://github.com/cindpear/art-studies/blob/main/hour-66.png) | [Hour 65 & 66 PSD](https://github.com/cindpear/art-studies/blob/main/Hour_65_%26_66.psd)\
+**Hour 67 & 68:** [Hour 67 PNG](https://github.com/cindpear/art-studies/blob/main/hour-67.png) | [Hour 68 PNG](https://github.com/cindpear/art-studies/blob/main/hour-68.png) | [Hour 67 & 68 PSD](https://github.com/cindpear/art-studies/blob/main/Hour_67_%26_68.psd)\
+**Hour 69 & 70:** [Hour 69 PNG](https://github.com/cindpear/art-studies/blob/main/hour-69.png) | [Hour 70 PNG](https://github.com/cindpear/art-studies/blob/main/hour-70.png) | [Hour 69 & 70 PSD](https://github.com/cindpear/art-studies/blob/main/Hour_69_%26_70.psd)
