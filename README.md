@@ -50,7 +50,7 @@ Each hour is a set of studies on different subjects (full body, torso, clothes, 
 **Hour 43 & 44:** [Hour 43 PNG](https://github.com/cindpear/art-studies/blob/main/hour-43.png) | [Hour 44 PNG](https://github.com/cindpear/art-studies/blob/main/hour-44.png) | [Hour 43 & 44 PSD](https://github.com/cindpear/art-studies/blob/main/Hour_43_%26_44.psd)\
 **Hour 45 & 46:** [Hour 45 PNG](https://github.com/cindpear/art-studies/blob/main/hour-45.png) | [Hour 46 PNG](https://github.com/cindpear/art-studies/blob/main/hour-46.png) | [Hour 45 & 46 PSD](https://github.com/cindpear/art-studies/blob/main/Hour_45_%26_46.psd)\
 **Hour 47 & 48:** [Hour 47 PNG](https://github.com/cindpear/art-studies/blob/main/hour-47.png) | [Hour 48 PNG](https://github.com/cindpear/art-studies/blob/main/hour-48.png) | [Hour 47 & 48 PSD](https://github.com/cindpear/art-studies/blob/main/Hour_47_%26_48.psd)\
-**Hour 49 & 50:** [Hour 49 PNG](https://github.com/cindpear/art-studies/blob/main/hour-49.png) | [Hour 50 PNG](https://github.com/cindpear/art-studies/blob/main/hour-50.png) | [Hour 49 & 50 PSD](https://github.com/cindpear/art-studies/blob/main/Hour_49_%26_50.psd)\
+**Hour 49 & 50:** [Hour 49 PNG](https://github.com/cindpear/art-studies/blob/main/hour-49.png) | [Hour 50 PNG](https://github.com/cindpear/art-studies/blob/main/hour-50.png) | [Hour 49 & 50 PSD](https://github.com/cindpear/art-studies/blob/main/Hour_49_%26_50.psd)
 
 ## Hours 51 - 70
 ![Collage of Hours 51 through 70](https://github.com/cindpear/art-studies/blob/main/hour-51-70.jpg)
